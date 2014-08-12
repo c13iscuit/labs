@@ -724,6 +724,10 @@
     z-index:-9999;
 	}
 
+	#header li {
+		font-size: 20px;
+	}
+
 	#banner
 	{
 		background: #CCE8F4 url('https://s3.amazonaws.com/ooomf-com-files/mtNrf7oxS4uSxTzMBWfQ_DSC_0043.jpg');
